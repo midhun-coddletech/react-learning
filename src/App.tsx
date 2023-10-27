@@ -25,7 +25,7 @@ const App = function () {
         <ProductCard
           title="Candyman"
           src="productimg/candyman.jpg"
-          price={95}
+          price={93}
           description="The Candyman Eclairs includes an outer shell of butterscotch and is filled with a mixture of vanilla"
         />
         <ProductCard
