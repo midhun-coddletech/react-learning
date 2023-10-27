@@ -19,7 +19,7 @@ const App = function () {
         <ProductCard
           title="5 star"
           src="productimg/5Star.jpg"
-          price={95}
+          price={96}
           description="This smooth milk chocolate bar is packed with crunchy biscuit bits and a chewy caramel centre"
         />
         <ProductCard
